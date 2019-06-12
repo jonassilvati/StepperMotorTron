@@ -1,0 +1,9 @@
+#Keywords for Syntax Coloring
+
+#keyword of class
+StepperMotorTron KEYWORD1
+
+#Keyword for class functions
+start KEYWORD2
+go KEYWORD2
+back KEYWORD2
